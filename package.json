@@ -1,0 +1,19 @@
+{
+  "name": "mongoose-api-helper",
+  "version": "1.0.0",
+  "description": "helper functions for common actions with mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oresh/mangoose-api-helper.git"
+  },
+  "author": "oresh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oresh/mangoose-api-helper/issues"
+  },
+  "homepage": "https://github.com/oresh/mangoose-api-helper"
+}
